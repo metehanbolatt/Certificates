@@ -19,6 +19,7 @@ Atıl Samancıoğlu ve Academy Club tarafından oluşturulan bu eğitimde Kotlin
 - Room Database
 - Navigation
 - viewBinding
+- dataBinding
 
 [İlgili kursa buraya tıklayarak gidebilirsiniz.](https://www.udemy.com/course/android-mobil-uygulama-kursu-seviye-2/)
 
