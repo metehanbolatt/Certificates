@@ -4,7 +4,7 @@
 
 [Techcareer.net'in](www.techcareer.net) düzenlediği, eğitimin Kasım Adalan tarafından üstlenildiği 8 haftalık "Android Developer Bootcamp with Kotlin" eğitimini tamamlayıp [Bitirme Projesi'ni](https://github.com/metehanie/GraduateProject) teslim ederek bu sertifikayı almaya hak kazandım.
 
-![Android Developer Bootcamp with Kotlin Cerficate]()
+![Android Developer Bootcamp with Kotlin Cerficate](https://raw.githubusercontent.com/metehanie/Certificates/main/Techcareer.png)
 
 ---
 
