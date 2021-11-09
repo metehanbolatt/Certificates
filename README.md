@@ -34,3 +34,14 @@ Atıl Samancıoğlu ve Academy Club tarafından oluşturulan bu eğitimde Kotlin
 [İlgili kursa buraya tıklayarak gidebilirsiniz.](https://www.udemy.com/course/android-mobil-uygulama-kursu-seviye-2/)
 
 ![AdvancedCertificate](https://raw.githubusercontent.com/metehanie/Certificates/main/AndroidAdv.jpg)
+
+---
+
+
+## To-Do App with Jetpack Compose MVVM - Android Development
+
+With this course, I learned the "Jetpack Compose" details even better.
+
+[You can access the relevant course by clicking here.](https://www.udemy.com/course/to-do-app-with-jetpack-compose-mvvm-android-development/)
+
+![Jetpack Compose Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-064d0f11-716b-48e3-993d-b663805e4cfa.jpg?v=1636456279000)
